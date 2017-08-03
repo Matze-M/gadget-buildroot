@@ -4,7 +4,7 @@
 #
 ################################################################################
 
-GADGET_TOOLS_VERSION = 0.1
+GADGET_TOOLS_VERSION = 0.2
 GADGET_TOOLS_SITE = $(BR2_EXTERNAL_GADGETOS_PATH)/package/gadget-tools/files
 GADGET_TOOLS_SITE_METHOD = local
 GADGET_TOOLS_LICENSE = MIT
